@@ -1,8 +1,12 @@
-#include <bits/stdc++.h>
 #include <windows.h>
 
+#include <algorithm>
 #include <chrono>
+#include <cstdlib>
+#include <iostream>
+#include <string>
 #include <thread>
+#include <vector>
 using namespace std;
 
 const int rows = 20;

@@ -2,10 +2,10 @@
 A cpp implementation of Game of life using oop principles. This console-based application simulates the evolution of cellular automata based on Conway's classic rules,featuring multiple agme modes and customizable setting.
 
 # Features
-Multiple Game Modes
-Customizable Settings
-OOP Design
-To be continue...
+- Multiple Game Modes
+- Customizable Settings
+- OOP Design
+- To be continue...
 
 # Future Development Plans
 
